@@ -1,13 +1,11 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning Web Development at [Trybe](https://www.betrybe.com/)
-- 📫 How to reach me: lucaschmain@gmail.com
+### Hi there, i'm Lucas Chavarem 👋
 
 ```javascript
 const Lucas = {
-  learning = ['Back End Development', 'English Language'],
+  learning: [Back End Development, English Language],
   tools: [Html, Css, JavaScript, React, Redux, Jest, Rtl, Docker],
-  
+  email: 'lucaschmain@gmail.com',
+  linkedin: 'linkedin.com/in/lucas-chavarem'
 }
 ```
 
@@ -31,4 +29,4 @@ const Lucas = {
   ##
   
    <a href = "mailto:lucaschmain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-chavarem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-chavarem/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
