@@ -3,7 +3,7 @@
 ```javascript
 const Lucas = {
   learning: [Back End Development, English Language],
-  skills: [Front End Development, Soft Skills],
+  skills: [Front End Development, Soft Skills, Agile Methodology],
   tools: [Html, Css, JavaScript, React, Redux, Jest, Rtl, Docker],
   contact: {
      email: 'lucaschmain@gmail.com',
