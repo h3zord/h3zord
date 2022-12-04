@@ -3,9 +3,9 @@
 
 ```javascript
 const Lucas = {
-  learning: [Back End Development, English Language],
-  skills: [Front End Development, Soft Skills, Agile Methodology],
-  tools: [Html, Css, JavaScript, React, Redux, Jest, Rtl, Docker],
+  learning: [English Language],
+  skills: [Front End Development, Back End Development, Soft Skills, Agile Methodology],
+  tools: [HTML, CSS, JavaScript, React, Redux, Jest, RTL, Docker, NodeJS, TypeScript, ExpressJS, MySQL, Sequelize, Mocha],
   contact: {
      email: 'lucaschmain@gmail.com',
      linkedin: 'linkedin.com/in/lucas-chavarem'
