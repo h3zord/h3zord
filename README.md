@@ -10,8 +10,8 @@ const Lucas = {
     backEnd: [Docker, NodeJS, TypeScript, ExpressJS, MySQL, MongoDB, Sequelize, Mocha],
   },
   contact: {
-    email: 'lucaschmain@gmail.com',
-    linkedin: 'linkedin.com/in/lucas-chavarem'
+    email: lucaschmain@gmail.com,
+    linkedin: linkedin.com/in/lucas-chavarem
   },
 }
 ```
