@@ -5,7 +5,7 @@
 const Lucas = {
   learning: [English Language],
   skills: [Front End Development, Back End Development, Soft Skills, Agile Methodology],
-  tools: [Html, Css, JavaScript, React, Redux, Jest, Rtl, Docker, NodeJS, TypeScript, ExpressJS, MySQL, Sequelize, Mocha],
+  tools: [Html, Css, JavaScript, React, Redux, Jest, Rtl, Docker, NodeJS, TypeScript, ExpressJS, MySQL, MongoDB, Sequelize, Mocha],
   contact: {
      email: 'lucaschmain@gmail.com',
      linkedin: 'linkedin.com/in/lucas-chavarem'
