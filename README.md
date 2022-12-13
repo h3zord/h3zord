@@ -7,7 +7,7 @@ const Lucas = {
   skills: {
     primary: [Back-End Development, Soft Skills, Agile Methodology],
     secondary: [Front-End Development],
-  }
+  },
   tools: {
     frontEnd: [Html, Css, JavaScript, React, React Hooks, Redux, Jest, Rtl],
     backEnd: [Docker, NodeJS, TypeScript, ExpressJS, MySQL, MongoDB, Sequelize, Mocha],
