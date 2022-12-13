@@ -10,7 +10,7 @@ const Lucas = {
   },
   tools: {
     backEnd: [Docker, NodeJS, TypeScript, ExpressJS, MySQL, MongoDB, Sequelize, Mocha],
-    frontEnd: [Html, Css, JavaScript, React, React Hooks, Context API, Redux, Jest, Rtl],
+    frontEnd: [Html, Css, JavaScript, React, React Hooks, Context Api, Redux, Jest, Rtl],
   },
   contact: {
     email: 'lucaschmain@gmail.com',
