@@ -9,7 +9,7 @@ const Lucas = {
     secondary: [Front End Development],
   },
   tools: {
-    backEnd: [Docker, NodeJS, TypeScript, ExpressJS, Jwt, MySQL, Sequelize, MongoDB, Mocha],
+    backEnd: [Docker, NodeJS, TypeScript, ExpressJS, Jwt, MySQL, Sequelize, MongoDB, Mongoose, Mocha],
     frontEnd: [Html, Css, JavaScript, React, React Hooks, Context Api, Redux, Jest, Rtl],
   },
   contact: {
