@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-<a href="">
+<a href="lucasch-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge">
 </a>
 </div>
@@ -25,7 +25,7 @@ const Lucas = {
     test: [Jest, React Testing Library, Mocha, Chai, Sinon],
   },
   contact: {
-    portfolio: '',
+    portfolio: 'lucasch-portfolio.vercel.app',
     email: 'lucaschmain@gmail.com',
     linkedin: 'linkedin.com/in/lucaschavarem'
   },
