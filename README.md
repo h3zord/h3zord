@@ -25,7 +25,7 @@ const Lucas = {
     test: [Jest, React Testing Library, Mocha, Chai, Sinon],
   },
   contact: {
-    portfolio: 'lucasch-portfolio.vercel.app',
+    portfolio: '',
     email: 'lucaschmain@gmail.com',
     linkedin: 'linkedin.com/in/lucaschavarem'
   },
