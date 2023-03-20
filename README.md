@@ -13,7 +13,7 @@ const Lucas = {
     frontEnd: [Html, Css, JavaScript, React, Context Api, Redux],
     backEnd: [Docker, NodeJS, TypeScript, ExpressJS, Jwt],
     database: [MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose],
-    tests: [Jest, React Testing Library, Mocha],
+    test: [Jest, React Testing Library, Mocha],
   },
   contact: {
     email: 'lucaschmain@gmail.com',
