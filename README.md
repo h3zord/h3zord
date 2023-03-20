@@ -3,14 +3,13 @@
 
 ```javascript
 const Lucas = {
-  learning: [English Language],
-  skills: {
-    primary: [Back End Development, Soft Skills, Agile Methodology],
-    secondary: [Front End Development],
-  },
+  learning: [Python, English Language],
+  skills: [Full Stack Development, Soft Skills, Agile Methodology],
   tools: {
-    backEnd: [Docker, NodeJS, TypeScript, ExpressJS, Jwt, MySQL, Sequelize, MongoDB, Mongoose, Mocha],
-    frontEnd: [Html, Css, JavaScript, React, React Hooks, Context Api, Redux, Jest, Rtl],
+    frontEnd: [Html, Css, JavaScript, React, Context Api, Redux],
+    backEnd: [Docker, NodeJS, TypeScript, ExpressJS, Jwt],
+    database: [MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose],
+    tests: [Jest, React Testing Library, Mocha, Chai, Sinon],
   },
   contact: {
     email: 'lucaschmain@gmail.com',
