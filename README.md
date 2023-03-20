@@ -22,7 +22,7 @@ const Lucas = {
     frontEnd: [Html, Css, Javascript, React, Context Api, Redux],
     backEnd: [Docker, NodeJS, Typescript, ExpressJS, Jwt],
     database: [MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose],
-    test: [Jest, React Testing Library, Mocha],
+    test: [Jest, React Testing Library, Mocha, Chai, Sinon],
   },
   contact: {
     portfolio: 'lucasch-portfolio.vercel.app',
