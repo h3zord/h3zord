@@ -27,7 +27,7 @@ const Lucas = {
   contact: {
     portfolio: 'lucasch-portfolio.vercel.app',
     email: 'lucaschmain@gmail.com',
-    linkedin: 'linkedin.com/in/lucaschavarem/'
+    linkedin: 'linkedin.com/in/lucaschavarem'
   },
 }
 ```
