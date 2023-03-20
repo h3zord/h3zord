@@ -19,8 +19,8 @@ const Lucas = {
   learning: [Python, English Language],
   skills: [Full Stack Development, Soft Skills, Agile Methodology],
   tools: {
-    frontEnd: [Html, Css, JavaScript, React, Context Api, Redux],
-    backEnd: [Docker, NodeJS, TypeScript, ExpressJS, Jwt],
+    frontEnd: [Html, Css, Javascript, React, Context Api, Redux],
+    backEnd: [Docker, NodeJS, Typescript, ExpressJS, Jwt],
     database: [MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose],
     test: [Jest, React Testing Library, Mocha],
   },
