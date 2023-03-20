@@ -1,4 +1,8 @@
-### Hi there, i'm Lucas Chavarem 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=E6B93D&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Lucas+Chavarem!;Full+Stack+Web+Developer!)](https://git.io/typing-svg)
+
+</div>
 
 
 ```javascript
