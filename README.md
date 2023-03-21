@@ -10,6 +10,10 @@
 <a href="https://lucasch-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge">
 </a>
+  
+<a href="https://drive.google.com/file/d/1Vvy6khNaeri9XVyqnAaUQ4xDOTZBOy_E/view">
+  <img src="https://img.shields.io/badge/CURRÍCULO-yellow?style=for-the-badge">
+</a>
 </div>
 
 <br/>
