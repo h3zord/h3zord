@@ -17,7 +17,7 @@
 ```javascript
 const Lucas = {
   learning: [Python, English Language],
-  skills: [Full Stack Development, Soft Skills, Agile Methodology],
+  skills: [Full Stack Web Development, Soft Skills, Agile Methodology],
   tools: {
     frontEnd: [Html, Css, Javascript, React, Context Api, Redux],
     backEnd: [Docker, NodeJS, Typescript, ExpressJS, Jwt],
