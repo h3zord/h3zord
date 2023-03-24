@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge">
 </a>
   
-<a href="https://drive.google.com/file/d/1Vvy6khNaeri9XVyqnAaUQ4xDOTZBOy_E/view">
+<a href="https://drive.google.com/file/d/12klBd90IIbSb9kI_RLkSAE38eB_RPn5C/view?usp=sharing">
   <img src="https://img.shields.io/badge/CURRÍCULO-yellow?style=for-the-badge">
 </a>
 </div>
