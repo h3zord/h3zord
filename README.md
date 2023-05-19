@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge">
 </a>
   
-<a href="https://drive.google.com/file/d/1s8g2i-ojnnkS2H_bI-jmMnZjABoBmJbw/view?usp=sharing">
+<a href="bit.ly/lucaschavarem-cv">
   <img src="https://img.shields.io/badge/CURRÍCULO-yellow?style=for-the-badge">
 </a>
 </div>
