@@ -39,8 +39,8 @@ const Lucas = {
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h3zord&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3zord&langs_count=3&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=h3zord&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3zord&langs_count=3&theme=dark" height="200em" />
 </div>
 
 
