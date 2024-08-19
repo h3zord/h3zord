@@ -18,15 +18,16 @@
 
 <br/>
 
-```javascript
+```js
 const Lucas = {
-  learning: [Python, English Language],
   skills: [Full Stack Web Development, Soft Skills, Agile Methodology],
+  learning: [Frontend, Backend, DevOps, English Language],
   tools: {
-    frontEnd: [Html, Css, Javascript, React, Context Api, Redux],
-    backEnd: [Docker, NodeJS, Typescript, ExpressJS, Jwt],
-    database: [MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose],
-    test: [Jest, React Testing Library, Mocha, Chai, Sinon],
+    Languages: [Javascript, Typescript],
+    frontEnd: [React, NextJS, Styled Components],
+    backEnd: [NodeJS, ExpressJS, Docker],
+    database: [MySQL, PostgreSQL, PrismaORM, MongoDB, MongooseODM],
+    test: [Cypress, Jest, React Testing Library],
   },
   contact: {
     portfolio: 'lucasch-portfolio.vercel.app',
@@ -51,7 +52,6 @@ const Lucas = {
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -61,10 +61,8 @@ const Lucas = {
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://uploaddeimagens.com.br/images/004/297/297/full/Captura_de_tela_de_2023-01-12_21-29-44.png?1673569793" width="126px" height="28px">
-  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
 </div>
 
 ##
