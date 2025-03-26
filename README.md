@@ -21,9 +21,9 @@ const Lucas = {
   tools: {
     Languages: [Javascript, Typescript],
     frontEnd: [React, NextJS, Styled Components, TailwindCSS],
-    backEnd: [NodeJS, ExpressJS, Json Web Token, Docker],
-    database: [MySQL, PostgreSQL, PrismaORM, MongoDB, MongooseODM],
-    test: [Cypress, Jest, React Testing Library],
+    backEnd: [NodeJS, ExpressJS, Fastify, NestJS],
+    database: [MySQL, PostgreSQL, MongoDB, Redis],
+    test: [Cypress, Jest, Vitest, React Testing Library],
   },
   contact: {
     portfolio: 'lucasch-portfolio.vercel.app',
