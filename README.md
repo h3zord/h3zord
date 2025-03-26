@@ -20,7 +20,7 @@ const Lucas = {
   learning: [Frontend, Backend, DevOps, English Language],
   tools: {
     Languages: [Javascript, Typescript],
-    frontEnd: [React, NextJS, Styled Components, TailwindCSS],
+    frontEnd: [React, Vite, NextJS, Styled Components, TailwindCSS],
     backEnd: [NodeJS, ExpressJS, Fastify, NestJS],
     database: [MySQL, PostgreSQL, MongoDB, Redis],
     test: [Cypress, Jest, Vitest, React Testing Library],
